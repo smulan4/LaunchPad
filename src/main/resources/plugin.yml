@@ -1,0 +1,4 @@
+name: LaunchPad
+version: '${project.version}'
+main: me.samuel.launchpad.LaunchPad
+api-version: 1.19
